@@ -2,9 +2,9 @@
 
 Seja bem vindo ao meu repositório de projetos com python Flask!! 
 Este repositório contém os projetos do meu início de desenvolvimento de aplicações web, contendo linguagens como:
-> Python
-> HTML
-> CSS
+> Python  
+> HTML  
+> CSS  
 Além do uso do Flask, uma microframework do Python.
 Cada projetos tem uma finalidade:
 
