@@ -5,6 +5,7 @@ Este repositório contém os projetos do meu início de desenvolvimento de aplic
 > Python  
 > HTML  
 > CSS  
+
 Além do uso do Flask, uma microframework do Python.
 Cada projetos tem uma finalidade:
 
